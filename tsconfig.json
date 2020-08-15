@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./packages/crud/tsconfig.lib.json"
+    },
+    {
+      "path": "./packages/crud/tsconfig.spec.json"
+    }
+]
 }
